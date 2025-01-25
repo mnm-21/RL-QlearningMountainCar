@@ -2,7 +2,7 @@
 # MountainCar-v0 Q-Learning Agent
 
 This project implements a Q-Learning agent to solve the `MountainCar-v0` environment from OpenAI's Gymnasium library. The agent learns to drive a car up a hill by optimizing its actions using a Q-table. The implementation includes visualization of the training process and analysis of the trained Q-table.
-![Mountain Car](./path/to/mountain_car.gif)
+![Mountain Car](./mountain_car.gif)
 ---
 
 ## **Overview**
